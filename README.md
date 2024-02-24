@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Ismail 👋</h1>
-<h3 align="center">Computer Engineer ,3D Artist, and Amateur Game Developer based in Egypt</h3>
+<h3 align="center">Computer Engineer , 3D Artist, and Amateur Game Developer based in Egypt</h3>
 
 - 🏅 9 years of experience in **Blender 3D**
 
