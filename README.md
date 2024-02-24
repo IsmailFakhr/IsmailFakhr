@@ -1,6 +1,15 @@
 <h1 align="center">Hey there, I'm Ismail 👋</h1>
 <h3 align="center">Computer Engineer , 3D Artist, and Amateur Game Developer based in Egypt</h3>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ismail-fakhr-292b95278/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ismail_fakhr/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><br>
+  </a>
+ </div>
+
 - 🏅 9 years of experience in **Blender 3D**
 
 - 🌱 Learning **Unity Game Engine**
@@ -8,11 +17,6 @@
 - 🏠 Living in **El Sherouk, Egypt**
 
 - 📫 Reach me at: **ismailfakhr999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ismail-fakhr-292b95278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-fakhr" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
